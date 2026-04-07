@@ -15,4 +15,4 @@
 https://raw.githubusercontent.com/Abobirec/bezdelnicha-vpn/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt
 
 ---
-Обновлено: 2026-04-07 22:57
+Обновлено: 2026-04-07 23:01
