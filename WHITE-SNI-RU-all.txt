@@ -1,6 +1,6 @@
 # profile-title: 🏴‍☠️ БЕЗДЕЛЬНИЧА VPN | WHITE LISTS | VLESS Reality RU
 # profile-update-interval: 6
-# Date/Time: 2026-04-07 22:57 (Moscow)
+# Date/Time: 2026-04-07 23:01 (Moscow)
 # Source: mirror by @Abobirec
 # Количество конфигов: ~27
 
