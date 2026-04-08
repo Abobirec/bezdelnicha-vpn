@@ -1,11 +1,8 @@
-# profile-title: 🏴‍☠️ БЕЗДЕЛЬНИЧА VPN | WHITE LISTS | VLESS Reality RU
-# profile-update-interval: 6
-# Date/Time: 2026-04-08 13:17 (Moscow)
-# Source: mirror by @Abobirec
-# Количество конфигов: ~91
-
+# profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(1)
+# profile-update-interval: 5
 # Date/Time: 2026-04-08 / 12:44 (Moscow)
 # Количество: 92
+
 vless://d64d3a6a-9c45-4e17-a1ce-c67bd5da24fc@62.152.59.194:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-1-4.legendary-vpn.com&pbk=qzooZxXE1CQ05jWyvEUu0-OsjnPe05fZDIJDoawmZ0U&sid=083e93dd5600307c#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 vless://d64d3a6a-9c45-4e17-a1ce-c67bd5da24fc@62.152.59.217:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-1-9.legendary-vpn.com&pbk=fK9pdh5XntHPhQYTDWiCIE_gFXdzGxDEmyNpPY6jK14&sid=611c17d9177012be#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 vless://d64d3a6a-9c45-4e17-a1ce-c67bd5da24fc@158.160.239.234:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-3-3.legendary-vpn.com&pbk=m5iF8IAFKw52ODQqdBE4fycHj5bAm6zTmnG3P7Mn2G8&sid=d8d3d1d87555e842#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20YA
